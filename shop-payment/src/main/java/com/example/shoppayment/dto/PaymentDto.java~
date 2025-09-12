@@ -1,0 +1,4 @@
+package com.example.shoppayment.dto;
+
+public class PaymentDto {
+}

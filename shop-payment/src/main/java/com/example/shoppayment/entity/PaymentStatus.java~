@@ -1,0 +1,4 @@
+package com.example.shoppayment.entity;
+
+public class PaymentStatus {
+}

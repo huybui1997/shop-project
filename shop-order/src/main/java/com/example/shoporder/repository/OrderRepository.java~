@@ -1,0 +1,4 @@
+package com.example.shoporder.repository;
+
+public class OrderRepository {
+}
