@@ -29,7 +29,7 @@ spring:
       port: 6379
 app:
   jwt:
-    secret: zPCROfzZidOqs+gnDqgH/Nzoq2k+mjad6vVMwwoLOHERPZUww7KS6QB3TB5qOhUc8ZbmrXAfF5ptrJmahbQlJg==
+    secret: ${JWT_SECRET_KEY}
     access-ms: 900000
     refresh-ms: 604800000
 logging:
